@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Game of Words</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="top_label">You\'ve entered:</string>
+    <string name="bottom_label">Please repeat:</string>
+    <string name="score_label">Score:</string>
+    <string name="lives_label">Lives:</string>
+    <string name="timer">5</string>
+    <string name="some_word">Some word</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="you_got">You\'ve got</string>
+    <string name="you_scores">Scores</string>
+    <string name="select_all">Select all</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_summary">Add new word to the list</string>
+    <string name="edit_text_title">New word</string>
+    <string name="pref_title">Select words</string>
+    <string name="pref_summary">Select words from the list that appear during the game</string>
+    <string name="help_string">Available words not found! Select list of allowed words at settings.</string>
+
+    <string-array name="words">
+        <item>apple</item>
+        <item>street</item>
+        <item>city</item>
+        <item>computer</item>
+        <item>table</item>
+        <item>development</item>
+        <item>performance</item>
+        <item>book</item>
+        <item>teacher</item>
+        <item>school</item>
+        <item>juice</item>
+        <item>entertainment</item>
+        <item>sport</item>
+        <item>pencil</item>
+        <item>cartoon</item>
+        <item>film</item>
+        <item>music</item>
+        <item>shirt</item>
+        <item>pants</item>
+        <item>newspaper</item>
+        <item>magazine</item>
+        <item>picture</item>
+        <item>suit</item>
+        <item>bathroom</item>
+        <item>clock</item>
+        <item>justice</item>
+        <item>defendant</item>
+        <item>significance</item>
+        <item>necessity</item>
+        <item>jacket</item>
+        <item>vocabulary</item>
+        <item>procedure</item>
+        <item>victim</item>
+        <item>accused</item>
+        <item>prosecution</item>
+        <item>injury</item>
+        <item>crime</item>
+        <item>commitment</item>
+        <item>ball</item>
+        <item>implementation</item>
+        <item>execution</item>
+        <item>enforcement</item>
+        <item>exercise</item>
+        <item>ambassador</item>
+        <item>lamp</item>
+        <item>government</item>
+        <item>obsession</item>
+        <item>sea</item>
+        <item>door</item>
+        <item>bag</item>
+        <item>agreement</item>
+        <item>dog</item>
+        <item>cat</item>
+        <item>treaty</item>
+        <item>face</item>
+        <item>mouse</item>
+        <item>hostility</item>
+        <item>tea</item>
+        <item>cake</item>
+        <item>birthday</item>
+        <item>happiness</item>
+        <item>whisper</item>
+        <item>floor</item>
+        <item>elevator</item>
+        <item>refrigerator</item>
+        <item>stove</item>
+        <item>stone</item>
+        <item>bus</item>
+        <item>car</item>
+        <item>trolleybus</item>
+        <item>coach</item>
+        <item>bitch</item>
+        <item>children</item>
+        <item>brother</item>
+        <item>monkey</item>
+        <item>sister</item>
+        <item>squirrel</item>
+        <item>house</item>
+        <item>edifice</item>
+        <item>news</item>
+        <item>letter</item>
+        <item>dress</item>
+        <item>skirt</item>
+        <item>microwave</item>
+        <item>tart</item>
+        <item>convention</item>
+        <item>investigation</item>
+        <item>treatment</item>
+        <item>cognition</item>
+        <item>trial</item>
+        <item>competition</item>
+        <item>circumstance</item>
+        <item>consequence</item>
+        <item>coercion </item>
+        <item>damage </item>
+        <item>testament</item>
+        <item>acceleration</item>
+    </string-array>
+
+</resources>

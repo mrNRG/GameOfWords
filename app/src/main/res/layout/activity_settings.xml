@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:name="mr.nrg.ua.gameofwords.fragments.SettingsFragment"
+    tools:layout="@layout/fragment_settings"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mr.nrg.ua.gameofwords.activities.SettingsActivity">
+
+</fragment>
